@@ -78,31 +78,31 @@ Screenshots of the working application:
 
 ### X Gate
 
-![X Gate](demo/images/Screenshot 2026-09-08 at 23.41.57.png)
-![X Gate](demo/images/Screenshot 2026-09-08 at 23.42.04.png)
-![X Gate](demo/images/Screenshot 2026-09-08 at 23.42.08.png)
+![X Gate](demo/images/x-gate-1.png)
+![X Gate](demo/images/x-gate-2.png)
+![X Gate](demo/images/x-gate-3.png)
 
 
 ### Y Gate
 
-![Y Gate](demo/images/Screenshot 2026-09-09 at 00.18.23.png)
-![Y Gate](demo/images/Screenshot 2026-09-09 at 00.18.28.png)
+![Y Gate](demo/images/y-gate-1.png)
+![Y Gate](demo/images/y-gate-2.png)
 
 ### Z Gate
 
-![Z Gate](demo/images/Screenshot 2026-09-09 at 00.20.44.png)
-![Z Gate](demo/images/Screenshot 2026-09-09 at 00.20.57.png)
+![Z Gate](demo/images/z-gate-1.png)
+![Z Gate](demo/images/z-gate-2.png)
 
 ### H Gate
 
-![H Gate](demo/images/Screenshot 2026-09-09 at 00.22.21.png)
-![H Gate](demo/images/Screenshot 2026-09-09 at 00.22.29.png)
+![H Gate](demo/images/h-gate-1.png)
+![H Gate](demo/images/h-gate-2.png)
 
 ### RY Gate
 
-![RY Gate](demo/images/Screenshot 2026-09-08 at 23.41.07.png)
-![RY Gate](demo/images/Screenshot 2026-09-08 at 23.41.18.png)
-![RY Gate](demo/images/Screenshot 2026-09-08 at 23.41.22.png)
+![RY Gate](demo/images/ry-gate-1.png)
+![RY Gate](demo/images/ry-gate-2.png)
+![RY Gate](demo/images/ry-gate-3.png)
 
 
 ---
