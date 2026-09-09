@@ -11,6 +11,7 @@ venv/
 .venv/
 env/
 ENV/
+quantum_computing_env/
 
 # Python packaging
 
