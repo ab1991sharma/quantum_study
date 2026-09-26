@@ -112,3 +112,8 @@ Screenshots of the working application:
 * Python
 * Quantum Computing
 * Quantum Circuit Simulation
+
+
+#  Grover search Algorithm
+![Grover search results output](demo/images/grover_search_demo2.png)
+![Grover search results output](demo/images/grover_search_demo1.png)
